@@ -8,4 +8,3 @@ class TestCalculator:
 
     def test_subtraction(self):
         assert 2 == calc.subtract(4, 2)
-
